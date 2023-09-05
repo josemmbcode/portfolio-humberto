@@ -1,41 +1,27 @@
-# Welcome to Remix!
+# Humberto's Portfolio - Remix.js Project
 
-- [Remix Docs](https://remix.run/docs)
+## Description
 
-## Fly Setup
+Humberto's Portfolio is a web application showcasing the creative works of a film and writer based in Argentina. It is built using Remix.js, a robust web framework that enhances React applications. The project's visual design is achieved through Tailwind CSS, offering an appealing and responsive layout. All project data is managed in a PostgreSQL database hosted on Supabase, a powerful open-source alternative to Firebase.
 
-1. [Install `flyctl`](https://fly.io/docs/getting-started/installing-flyctl/)
+Visit the portfolio at [humberto.fly.dev](https://humberto.fly.dev) to explore Humberto's remarkable body of work.
 
-2. Sign up and log in to Fly
+## Key Features
 
-```sh
-flyctl auth signup
-```
+- **Project Showcase:** Humberto's portfolio presents an organized collection of his film and writing projects. Each project is given a dedicated page, allowing visitors to delve into the details.
 
-3. Setup Fly. It might ask if you want to deploy, say no since you haven't built the app yet.
+- **Dynamic Routing:** Remix.js facilitates seamless navigation through the portfolio with dynamic routing, enhancing user engagement.
 
-```sh
-flyctl launch
-```
+- **Responsive Design:** The portfolio is designed to adapt gracefully to various devices, ensuring an optimal viewing experience on desktops, tablets, and smartphones.
 
-## Development
-
-From your terminal:
-
-```sh
-npm run dev
-```
-
-This starts your app in development mode, rebuilding assets on file changes.
+- **Database Integration:** All project data is securely stored in a PostgreSQL database, managed efficiently through Supabase, simplifying content updates and management.
 
 ## Deployment
 
-If you've followed the setup instructions already, all you need to do is run this:
+To deploy Humberto's Portfolio to a production environment, you can select from various hosting services like Vercel, Netlify, or AWS Amplify, depending on your preferences. Ensure you configure production environment variables correctly for smooth deployment.
 
-```sh
-npm run deploy
-```
+## Author
 
-You can run `flyctl info` to get the url and ip address of your server.
+Humberto's Portfolio was crafted by [Your Name]. Feel free to reach out for questions or inquiries at [your.email@example.com](mailto:your.email@example.com).
 
-Check out the [fly docs](https://fly.io/docs/getting-started/node/) for more information.
+Thank you for exploring Humberto's creative world through this portfolio!
