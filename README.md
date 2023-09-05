@@ -22,6 +22,6 @@ To deploy Humberto's Portfolio to a production environment, you can select from 
 
 ## Author
 
-Humberto's Portfolio was crafted by [Your Name]. Feel free to reach out for questions or inquiries at [your.email@example.com](mailto:your.email@example.com).
+Humberto's Portfolio was crafted by Jose Moreno. Feel free to reach out for questions or inquiries at [jose.moreno.mb@icloud.com](mailto:jose.moreno.mb@icloud.com).
 
 Thank you for exploring Humberto's creative world through this portfolio!
